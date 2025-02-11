@@ -1,4 +1,4 @@
-# CS5565 Statistical Learning Labs  
+# CS5565 Regression and Classification Labs 
 
 ## Description  
 This repository contains R scripts for **CS5565**, covering topics in statistical learning, regression models, classification methods, and machine learning techniques. These labs involve practical implementations of regression, logistic regression, discriminant analysis, k-nearest neighbors, naive Bayes, and other machine learning models.  
@@ -61,7 +61,7 @@ install.packages(c("MASS", "ISLR2", "e1071", "class", "car"))
 This repository is designed for educational purposes. Feel free to fork and modify the scripts.  
 
 ## License  
-This project is licensed under the **MIT License**.
+This project is open for educational and research use.
 
 ---
 **Author:** Alexander Dowell  
